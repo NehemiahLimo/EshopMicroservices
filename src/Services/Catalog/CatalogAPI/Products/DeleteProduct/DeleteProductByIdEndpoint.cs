@@ -3,9 +3,6 @@ using CatalogAPI.Products.UpdateProduct;
 
 namespace CatalogAPI.Products.DeleteProduct;
 
-
-public record DeleteProductRequest(Guid Id);
-
 public record DeleteProductResponse(bool IsSuccess);
 
 

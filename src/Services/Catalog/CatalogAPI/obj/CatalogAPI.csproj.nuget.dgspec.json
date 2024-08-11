@@ -46,13 +46,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
             "Mapster": {
               "target": "Package",
               "version": "[7.4.0, )"
-            },
-            "Marten": {
-              "target": "Package",
-              "version": "[7.26.1, )"
             },
             "MediatR": {
               "target": "Package",
