@@ -16,7 +16,8 @@ namespace CatalogAPI.Products.CreateProduct
     {
         public CreateProductCommandValidator()
         {
-            RuleFor(x => x.Name).NotEmpty().WithMessage("Name is required");
+            RuleFor(x => x.Name).NotEmpty().WithMessage("Name is required").Length
+                (2,159).WithMessage("Name must be between 2 and 160 characters");
             RuleFor(x => x.Category).NotEmpty().WithMessage("Category is required");
             RuleFor(x => x.Description).NotEmpty().WithMessage("Description is required");
             RuleFor(x => x.ImageFile).NotEmpty().WithMessage("Image file is required");
@@ -27,18 +28,11 @@ namespace CatalogAPI.Products.CreateProduct
     }
 
 
-    internal class CreateProductCommandHandler(IDocumentSession session, IValidator<CreateProductCommand> validator)
+    internal class CreateProductCommandHandler(IDocumentSession session, ILogger<CreateProductCommandHandler> logger)
         : ICommandHandler<CreateProductCommand, CreateProductResult>
     {
         public async Task<CreateProductResult> Handle(CreateProductCommand command, CancellationToken cancellationToken)
         {
-            var result = await validator.ValidateAsync(command, cancellationToken);
-            var errors = result.Errors.Select(x=> x.ErrorMessage).ToList();
-
-
-            if (errors.Any()) {
-                throw new ValidationException(errors.FirstOrDefault());
-            }
 
             var product = new Product
             {
