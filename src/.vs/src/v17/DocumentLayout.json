@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\products\\getproducts\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F513A114-B8A3-44B9-9E28-DD91A498BDF9}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\buildingblocks\\buildingblocks\\behaviours\\loggingbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F513A114-B8A3-44B9-9E28-DD91A498BDF9}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\behaviours\\loggingbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\data\\cataloginitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,20 +102,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CatalogAPI",
-              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj*",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-24T00:31:29.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GetProductsHandler.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\GetProducts\\GetProductsHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\GetProducts\\GetProductsHandler.cs",
@@ -116,33 +115,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Program.cs*",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Program.cs*",
-              "ViewState": "AQIAAD0AAAAAAAAAAAApwE4AAAApAAAA",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T22:00:12.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBQAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-24T00:49:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T00:44:14.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CatalogInitialData.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Data\\CatalogInitialData.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Data\\CatalogInitialData.cs",
               "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Data\\CatalogInitialData.cs",
               "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Data\\CatalogInitialData.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAUwF0AAAAKAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA2wAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T22:56:57.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-24T00:49:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CatalogAPI",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T00:31:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoggingBehaviour.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Behaviours\\LoggingBehaviour.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviours\\LoggingBehaviour.cs",
@@ -155,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GetProductsEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\GetProducts\\GetProductsEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\GetProducts\\GetProductsEndpoint.cs",
@@ -168,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
@@ -181,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GetProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\GetProductById\\GetProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\GetProductById\\GetProductByIdHandler.cs",
@@ -194,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "GetProductsByCategoryHandler.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\GetProductsByCategory\\GetProductsByCategoryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\GetProductsByCategory\\GetProductsByCategoryHandler.cs",
@@ -207,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "BuildingBlocks.csproj",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
@@ -220,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\UpdateProduct\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\UpdateProduct\\UpdateProductHandler.cs",
@@ -233,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ProductNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Exceptions\\ProductNotFoundException.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Exceptions\\ProductNotFoundException.cs",
@@ -246,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CustomExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
@@ -259,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Behaviours\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviours\\ValidationBehavior.cs",
@@ -272,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "UpdateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
@@ -285,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "DeleteProductByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\DeleteProduct\\DeleteProductByIdHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\DeleteProduct\\DeleteProductByIdHandler.cs",
@@ -298,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
@@ -311,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "CreateProductEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
@@ -324,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "GetProductsByCategoryEndpoint.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Products\\GetProductsByCategory\\GetProductsByCategoryEndpoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\GetProductsByCategory\\GetProductsByCategoryEndpoint.cs",
