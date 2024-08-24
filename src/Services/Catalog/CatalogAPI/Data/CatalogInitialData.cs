@@ -32,6 +32,69 @@ public class CatalogInitialData : IInitialData
         new Product()
         {
             Id = Guid.NewGuid(),
+            Name= "Mazda Docs",
+            Description="Android Auto",
+            Category= new List<string>{ "Updates" },
+            ImageFile="/docs/newfolder/test",
+            Price=15000
+        },
+        new Product()
+        {
+            Id = Guid.NewGuid(),
+            Name= "Mazda Docs",
+            Description="Android Auto",
+            Category= new List<string>{ "Updates" },
+            ImageFile="/docs/newfolder/test",
+            Price=15000
+        },
+        new Product()
+        {
+            Id = Guid.NewGuid(),
+            Name= "Mazda Docs",
+            Description="Android Auto",
+            Category= new List<string>{ "Updates" },
+            ImageFile="/docs/newfolder/test",
+            Price=15000
+        },
+        new Product()
+        {
+            Id = Guid.NewGuid(),
+            Name= "Mazda Docs",
+            Description="Android Auto",
+            Category= new List<string>{ "Updates" },
+            ImageFile="/docs/newfolder/test",
+            Price=15000
+        },
+        new Product()
+        {
+            Id = Guid.NewGuid(),
+            Name= "Mazda Docs",
+            Description="Android Auto",
+            Category= new List<string>{ "Updates" },
+            ImageFile="/docs/newfolder/test",
+            Price=15000
+        },
+        new Product()
+        {
+            Id = Guid.NewGuid(),
+            Name= "Mazda Docs",
+            Description="Android Auto",
+            Category= new List<string>{ "Updates" },
+            ImageFile="/docs/newfolder/test",
+            Price=15000
+        },
+        new Product()
+        {
+            Id = Guid.NewGuid(),
+            Name= "Mazda Docs",
+            Description="Android Auto",
+            Category= new List<string>{ "Updates" },
+            ImageFile="/docs/newfolder/test",
+            Price=15000
+        },
+        new Product()
+        {
+            Id = Guid.NewGuid(),
             Name = "Mazda Axela",
             Description = "Apple Carplay",
             Category = new List<string> { "Updates" },
