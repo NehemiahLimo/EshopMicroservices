@@ -5,6 +5,74 @@
     {
       "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885A7435-A42F-49C5-B92B-A4E925C430FF}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\getbasket\\getbaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\deletebasket\\deletebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\deletebasket\\deletebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket\\getbasket\\getbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\getbasket\\getbasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F513A114-B8A3-44B9-9E28-DD91A498BDF9}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F513A114-B8A3-44B9-9E28-DD91A498BDF9}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\storebasket\\storebaskethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket\\storebasket\\storebasketendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\data\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\data\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\data\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C59919A-A88A-49BF-9558-7050673C271D}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\basket\\basket.api\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAABFF1-19C2-4941-9676-32A0286A629B}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +82,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Catalog\\CatalogAPI\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:37:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketEndpoints.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:23:00.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\GetBasket\\GetBasketHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:22:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:27:50.954Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +144,178 @@
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
               "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Program.cs*",
               "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAq6oswB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T23:07:08.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteBasketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:41:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\DeleteBasket\\DeleteBasketEndpoints.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:37:43.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:37:56.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Data\\BasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:22:42.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoreBasketEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket\\StoreBasket\\StoreBasketEndpoints.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:27:28.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\GlobalUsing.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:30:27.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Data\\IBasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:17:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T23:07:16.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Basket.API",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T22:16:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T23:04:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-31T23:20:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAcAAAAAAABQj8gWwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-31T23:21:42.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasketNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Basket\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Exceptions\\BasketNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T22:49:16.108Z",
               "EditorCaption": ""
             }
           ]

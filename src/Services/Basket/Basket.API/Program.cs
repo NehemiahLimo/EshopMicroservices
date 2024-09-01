@@ -1,8 +1,9 @@
-using BuildingBlocks.Behaviours;
-using Carter;
+
+
+using BuildingBlocks.Exceptions.Handler;
 
 var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+
 //services
 var assembly = typeof(Program).Assembly;
 builder.Services.AddCarter();
@@ -14,7 +15,20 @@ builder.Services.AddMediatR(c =>
 
 
 });
+builder.Services.AddMarten(opts =>
+{
+    opts.Connection(builder.Configuration.GetConnectionString("Database")!);
+    opts.Schema.For<ShoppingCart>().Identity(x=>x.UserName);
+   // opts.AutoCreateSchemaObjects = AutoCreate.CreateOrUpdate;
+}).UseLightweightSessions();
+builder.Services.AddScoped<IBasketRepository, BasketRepository>();
 
+builder.Services.AddExceptionHandler<CustomExceptionHandler>();
+
+var app = builder.Build();
+
+
+app.UseExceptionHandler(options => { });
 
 //app.MapGet("/", () => "Hello World!");
 app.MapCarter();

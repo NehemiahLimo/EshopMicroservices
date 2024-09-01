@@ -4,7 +4,7 @@ using Mapster;
 using MediatR;
 
 namespace Basket.API.Basket.DeleteBasket;
-public record DeleteBasketRequest(string UserName);
+//public record DeleteBasketRequest(string UserName);
 public record DeleteBasketResponse(bool IsSuccess);
 
 
@@ -12,9 +12,9 @@ public class DeleteBasketEndpoints : ICarterModule
 {
     public void AddRoutes(IEndpointRouteBuilder app)
     {
-        app.MapDelete("/delete/{UserName}", async (string UserName, ISender sender) =>
+        app.MapDelete("/basket/{userName}", async (string userName, ISender sender) =>
         {
-            var result = sender.Send(new DeleteBasketCommand(UserName));
+            var result = sender.Send(new DeleteBasketCommand(userName));
             var response = result.Adapt<DeleteBasketResponse>();
             return Results.Ok(response);
 
