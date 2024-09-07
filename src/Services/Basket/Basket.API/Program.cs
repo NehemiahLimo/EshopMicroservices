@@ -1,6 +1,7 @@
 
 
 using BuildingBlocks.Exceptions.Handler;
+using Microsoft.Extensions.Caching.Distributed;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +23,18 @@ builder.Services.AddMarten(opts =>
    // opts.AutoCreateSchemaObjects = AutoCreate.CreateOrUpdate;
 }).UseLightweightSessions();
 builder.Services.AddScoped<IBasketRepository, BasketRepository>();
+builder.Services.Decorate<IBasketRepository, CachedBasketRepository>();
+builder.Services.AddStackExchangeRedisCache(opt =>
+{
+    opt.Configuration = builder.Configuration.GetConnectionString("Redis");
+
+});
+/*builder.Services.AddScoped<IBaseRequest>(provider =>
+{
+    var basketRespository = provider.GetRequiredService<BasketRepository>();
+    return new CachedBasketRepository(basketRespository, provider.GetRequiredService<IDistributedCache>())
+})
+*/
 
 builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 
