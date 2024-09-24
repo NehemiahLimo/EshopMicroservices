@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Discount.Grpc.Migrations
 {
     [DbContext(typeof(DiscountContext))]
-    [Migration("20240922002856_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20240922011730_InitialSetup")]
+    partial class InitialSetup
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -29,9 +29,11 @@ namespace Discount.Grpc.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("ProductDescription")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("ProductName")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");

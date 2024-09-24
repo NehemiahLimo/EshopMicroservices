@@ -26,9 +26,11 @@ namespace Discount.Grpc.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("ProductDescription")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("ProductName")
+                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");
