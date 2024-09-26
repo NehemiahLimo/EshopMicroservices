@@ -1,6 +1,7 @@
 
 
 using BuildingBlocks.Exceptions.Handler;
+using Discount.Grpc;
 using HealthChecks.UI.Client;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.Extensions.Caching.Distributed;
@@ -18,6 +19,8 @@ builder.Services.AddMediatR(c =>
 
 
 });
+
+//Data Services
 builder.Services.AddMarten(opts =>
 {
     opts.Connection(builder.Configuration.GetConnectionString("Database")!);
@@ -37,6 +40,14 @@ builder.Services.AddStackExchangeRedisCache(opt =>
     return new CachedBasketRepository(basketRespository, provider.GetRequiredService<IDistributedCache>())
 })
 */
+/*gRPC Services*/
+builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>(options =>
+{
+    options.Address = new Uri(builder.Configuration["GrpcSettings:DiscountUrl"]!);
+} );
+
+
+//Cross-cutting services
 
 builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 
