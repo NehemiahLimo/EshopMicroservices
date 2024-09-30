@@ -3,6 +3,86 @@
   "WorkspaceRootPath": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\valueobjects\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\valueobjects\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\valueobjects\\ordername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\valueobjects\\ordername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\valueobjects\\orderitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\valueobjects\\orderitemid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\valueobjects\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\valueobjects\\productid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\valueobjects\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\valueobjects\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\valueobjects\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\valueobjects\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\aggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\ordering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\iaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.domain\\abstractions\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA1BE3-7031-4F6F-A524-C66997A2DE86}|Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj|solutionrelative:services\\ordering\\ordering.domain\\abstractions\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94546CF1-48DE-4EBD-AF5F-93C906474945}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94546CF1-48DE-4EBD-AF5F-93C906474945}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +91,20 @@
       "RelativeMoniker": "D:0:0:{598F5978-8D41-4CED-958E-E378498E517C}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{598F5978-8D41-4CED-958E-E378498E517C}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{598F5978-8D41-4CED-958E-E378498E517C}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94546CF1-48DE-4EBD-AF5F-93C906474945}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94546CF1-48DE-4EBD-AF5F-93C906474945}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED7A561E-2C19-4886-B0AA-F4B602D5963A}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED7A561E-2C19-4886-B0AA-F4B602D5963A}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7A561E-2C19-4886-B0AA-F4B602D5963A}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED7A561E-2C19-4886-B0AA-F4B602D5963A}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598F5978-8D41-4CED-958E-E378498E517C}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{598F5978-8D41-4CED-958E-E378498E517C}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94546CF1-48DE-4EBD-AF5F-93C906474945}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\nehem\\source\\repos\\eshopmicroservices\\src\\services\\ordering\\ordering.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,37 +126,284 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ordering.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-27T10:58:09.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "DocumentIndex": 5,
+              "Title": "OrderId.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderId.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderId.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderId.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:58:17.706Z",
+              "WhenOpened": "2024-09-30T22:24:22.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "OrderItemId.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderItemId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderItemId.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderItemId.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderItemId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:29:06.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductId.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\ProductId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\ProductId.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\ProductId.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\ProductId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:23:39.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderName.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderName.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderName.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderName.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\OrderName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:20:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Payment.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Payment.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Payment.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Payment.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowCAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:51:30.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Address.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\Address.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:48:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerId.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\CustomerId.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\CustomerId.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\CustomerId.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\ValueObjects\\CustomerId.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:19:13.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:42:42.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:05:54.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\GlobalUsing.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:37:51.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:45:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:32:57.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:26:36.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Aggregate.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Aggregate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:03:41.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ordering.Domain",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T22:59:59.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:57:20.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAggregate.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IAggregate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:47:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:15:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:05:57.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Domain\\Abstractions\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:00:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:58:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\DependencyInjection.cs",
@@ -85,33 +416,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
               "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.API\\Program.cs",
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T07:43:46.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T10:58:00.762Z",
+              "WhenOpened": "2024-09-27T10:58:17.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 24,
+              "Title": "Ordering.Application",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T22:32:26.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ordering.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T10:58:09.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Domain\\Class1.cs",
@@ -124,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
@@ -137,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\nehem\\source\\repos\\EshopMicroservices\\src\\Services\\Ordering\\Ordering.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.json",
